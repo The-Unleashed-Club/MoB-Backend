@@ -1,5 +1,5 @@
 
-const Table = require("../model/tableSchema");
+const Table = require("../model/TableSchema");
 
 // Get all tables
 const getAllTables = (req, res) => {
